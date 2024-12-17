@@ -127,7 +127,6 @@ nav a:nth-child(12):hover~span{
 .card a{
     background-color: black;
     color: white;
-    padding: 15px 20px;
     text-align: center;
     margin: 10px 80px;
     text-decoration: none;
